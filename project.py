@@ -1,3 +1,4 @@
+#If date is 6 type 6 not 06
 a = int(input("Enter Your Date Of Birth(_,__): "))
 b = int(input("Enter Your Month Of Birth(_,__): "))
 c = int(input("Enter Your Year Of Birth(____): "))
